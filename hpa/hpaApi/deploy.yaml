@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: hpa-api
-        image: 	registry.cn-shanghai.aliyuncs.com/lygwys/hpaapi:1.0.0.3
+        image: 	registry.cn-shanghai.aliyuncs.com/lygwys/hpaapi:1.0.0.4
         resources: 
           requests:
             cpu: 200m
