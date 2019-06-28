@@ -15,9 +15,9 @@ namespace hpaApi.Controllers
         // GET api/values
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
-        {   
+        {
             var stringDistance = new StringDistance();
-            var  watch =new Stopwatch();
+            var watch = new Stopwatch();
             const long count = 100;
             const int length = 100;
             string comparestring = stringDistance.GenerateRandomString(length);
@@ -34,10 +34,10 @@ namespace hpaApi.Controllers
                 steps[i] = stringDistance.LevenshteinDistance(comparestring, strlist[i]);
             }
             watch.Stop();
-            Console.WriteLine("完成非并行计算,耗时(ms)"+watch.ElapsedMilliseconds);
-            Console.WriteLine("性能比" + 100000d/watch.ElapsedMilliseconds);
-           
-            return Ok("ok");
+            Console.WriteLine("完成非并行计算,耗时(ms)" + watch.ElapsedMilliseconds);
+            Console.WriteLine("性能比" + 100000d / watch.ElapsedMilliseconds);
+
+            return Ok("okwys");
         }
 
         // GET api/values/5

@@ -12,3 +12,17 @@ C:\jesse\projects\courses\init\hpa\hpaApi\bin\Debug\netcoreapp2.1\hpaApi.pdb
 C:\jesse\projects\courses\init\hpa\hpaApi\obj\Debug\netcoreapp2.1\hpaApi.RazorTargetAssemblyInfo.cache
 C:\jesse\projects\courses\init\hpa\hpaApi\obj\Debug\netcoreapp2.1\hpaApi.dll
 C:\jesse\projects\courses\init\hpa\hpaApi\obj\Debug\netcoreapp2.1\hpaApi.pdb
+D:\docker\projects\jessetalk\k8s-course-samples\hpa\hpaApi\bin\Debug\netcoreapp2.1\hpaApi.deps.json
+D:\docker\projects\jessetalk\k8s-course-samples\hpa\hpaApi\bin\Debug\netcoreapp2.1\hpaApi.runtimeconfig.json
+D:\docker\projects\jessetalk\k8s-course-samples\hpa\hpaApi\bin\Debug\netcoreapp2.1\hpaApi.runtimeconfig.dev.json
+D:\docker\projects\jessetalk\k8s-course-samples\hpa\hpaApi\bin\Debug\netcoreapp2.1\hpaApi.dll
+D:\docker\projects\jessetalk\k8s-course-samples\hpa\hpaApi\bin\Debug\netcoreapp2.1\hpaApi.pdb
+D:\docker\projects\jessetalk\k8s-course-samples\hpa\hpaApi\obj\Debug\netcoreapp2.1\hpaApi.csprojAssemblyReference.cache
+D:\docker\projects\jessetalk\k8s-course-samples\hpa\hpaApi\obj\Debug\netcoreapp2.1\hpaApi.csproj.CoreCompileInputs.cache
+D:\docker\projects\jessetalk\k8s-course-samples\hpa\hpaApi\obj\Debug\netcoreapp2.1\hpaApi.RazorAssemblyInfo.cache
+D:\docker\projects\jessetalk\k8s-course-samples\hpa\hpaApi\obj\Debug\netcoreapp2.1\hpaApi.RazorAssemblyInfo.cs
+D:\docker\projects\jessetalk\k8s-course-samples\hpa\hpaApi\obj\Debug\netcoreapp2.1\hpaApi.AssemblyInfoInputs.cache
+D:\docker\projects\jessetalk\k8s-course-samples\hpa\hpaApi\obj\Debug\netcoreapp2.1\hpaApi.AssemblyInfo.cs
+D:\docker\projects\jessetalk\k8s-course-samples\hpa\hpaApi\obj\Debug\netcoreapp2.1\hpaApi.RazorTargetAssemblyInfo.cache
+D:\docker\projects\jessetalk\k8s-course-samples\hpa\hpaApi\obj\Debug\netcoreapp2.1\hpaApi.dll
+D:\docker\projects\jessetalk\k8s-course-samples\hpa\hpaApi\obj\Debug\netcoreapp2.1\hpaApi.pdb
