@@ -37,7 +37,7 @@ namespace hpaApi.Controllers
             Console.WriteLine("完成非并行计算,耗时(ms)" + watch.ElapsedMilliseconds);
             Console.WriteLine("性能比" + 100000d / watch.ElapsedMilliseconds);
 
-            return Ok("okwys,version:lygwys/hpaapi:release-v1.0.0.0");
+            return Ok("okwys,version:lygwys/hpaapi:release-v1.0.0.3");
         }
 
         // GET api/values/5
